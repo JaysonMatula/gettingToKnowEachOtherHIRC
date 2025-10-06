@@ -20,6 +20,7 @@ Sprint 4 Backlog:
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
 | RC-001 | As a Scrum Team, we want to identify the Sprint 4 Scrum Master and Product Owner so that I can ensure team responsibilities are clearly defined for the sprint, | 10 | 0 | Y | Done | Jayson |
 | RC-003 | As a Scrum Master, I want to facilitate Sprint Planning and story commitment so that I can help the team work with focus and alignment. | 8 | 2 | Y | Done | Diego |
+| RC-005 | As a developer, I want to set up GitHub client and server repositories along with connected Azure Static Web App and Node.js servers so that I can deploy and test code collaboratively in the cloud. | 7 | 5 | Y | Assigned | Ilias |
 
 Todo:
 1. Team members request the highest priority stories (required for MVP) 
