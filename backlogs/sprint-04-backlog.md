@@ -27,7 +27,7 @@ Sprint 4 Backlog:
 | RC-014 | As a Product Owner, I want to ensure that no calculations occur on the client so that I can maintain centralized and consistent calculation logic. | 7 | 1 | Y | Assigned | Jayson |
 | RC-015 | As a developer, I want to deploy the client as an Azure static website so that I can provide users with a fast and accessible frontend. | 5 | 3 | Y | Assigned | Jayson |
 | RC-009 | As a user, I want to see a summary of my inputs before submitting so that I can confirm the information I entered is correct. | 5 | 3 | N | Assigned  | Sai Vihas Yadav |
-| RC-010 | As a client, I want to call a “ping” API to wake the servers on load, ensuring the backend is responsive when needed. | 5 | 2 | N | Assigned | Sai Vihas Yadav |
+| RC-017 | As a user, I want to identify and process my family history of hypertension so that I can understand how my health history affects my risk. | 1 | 3 | N | Assigned | Sai Vihas Yadav |
 
 Todo:
 1. Team members request the highest priority stories (required for MVP) 
